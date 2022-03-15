@@ -12,6 +12,7 @@ int _putchar(char c);
  * print_alphabet - function to print alphabet
  *
  */
+return (write (1,&c,1 ));
 void print_alphabet(void);
 /**
  * print_alphabet_x10 - prints alphabet 10 times
